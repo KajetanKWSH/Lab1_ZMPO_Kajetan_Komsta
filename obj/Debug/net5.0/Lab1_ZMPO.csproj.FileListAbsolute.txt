@@ -1,0 +1,16 @@
+C:\Users\kajet\source\repos\Lab1_ZMPO\bin\Debug\net5.0\Lab1_ZMPO.exe
+C:\Users\kajet\source\repos\Lab1_ZMPO\bin\Debug\net5.0\Lab1_ZMPO.deps.json
+C:\Users\kajet\source\repos\Lab1_ZMPO\bin\Debug\net5.0\Lab1_ZMPO.runtimeconfig.json
+C:\Users\kajet\source\repos\Lab1_ZMPO\bin\Debug\net5.0\Lab1_ZMPO.runtimeconfig.dev.json
+C:\Users\kajet\source\repos\Lab1_ZMPO\bin\Debug\net5.0\Lab1_ZMPO.dll
+C:\Users\kajet\source\repos\Lab1_ZMPO\bin\Debug\net5.0\ref\Lab1_ZMPO.dll
+C:\Users\kajet\source\repos\Lab1_ZMPO\bin\Debug\net5.0\Lab1_ZMPO.pdb
+C:\Users\kajet\source\repos\Lab1_ZMPO\obj\Debug\net5.0\Lab1_ZMPO.csproj.AssemblyReference.cache
+C:\Users\kajet\source\repos\Lab1_ZMPO\obj\Debug\net5.0\Lab1_ZMPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kajet\source\repos\Lab1_ZMPO\obj\Debug\net5.0\Lab1_ZMPO.AssemblyInfoInputs.cache
+C:\Users\kajet\source\repos\Lab1_ZMPO\obj\Debug\net5.0\Lab1_ZMPO.AssemblyInfo.cs
+C:\Users\kajet\source\repos\Lab1_ZMPO\obj\Debug\net5.0\Lab1_ZMPO.csproj.CoreCompileInputs.cache
+C:\Users\kajet\source\repos\Lab1_ZMPO\obj\Debug\net5.0\Lab1_ZMPO.dll
+C:\Users\kajet\source\repos\Lab1_ZMPO\obj\Debug\net5.0\ref\Lab1_ZMPO.dll
+C:\Users\kajet\source\repos\Lab1_ZMPO\obj\Debug\net5.0\Lab1_ZMPO.pdb
+C:\Users\kajet\source\repos\Lab1_ZMPO\obj\Debug\net5.0\Lab1_ZMPO.genruntimeconfig.cache
